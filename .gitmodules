@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "StanEstimators"]
+	path = StanEstimators
+	url = https://github.com/andrjohns/StanEstimators
+	branch = main
+	registered = false
 [submodule "adnuts"]
 	path = adnuts
 	url = https://github.com/cole-monnahan-noaa/adnuts
